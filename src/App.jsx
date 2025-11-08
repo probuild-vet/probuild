@@ -215,11 +215,12 @@ function Team() {
   return (
     <section className="py-16 text-center">
       <h3 className="text-3xl font-semibold mb-4">Team</h3>
-      <p className="text-slate-700 mb-8 max-w-2xl mx-auto">Cross-disciplinary team of engineers and data scientists focused on design automation.</p>
+      <p className="text-slate-700 mb-8 max-w-2xl mx-auto">Cross-disciplinary team of engineers, design and startup founders.</p>
 
       <div className="flex justify-center gap-6 flex-wrap">
-        <TeamCard name="Suhani Kolhatkar" role="Co-founder" desc="Mechanical engineer & ontology specialist." />
-        <TeamCard name="R&D Team" role="Engineering" desc="CAD, FEA and Ontology experts." />
+        <TeamCard name="Anand Khandekar" role="Co-founder" desc="Mechanical engineer and CAD Program Lead" />
+        <TeamCard name="Suhani Kolhatkar" role="Co-founder" desc="Mechanical engineer and CAD Program Lead" />
+        <TeamCard name="Pranoti Kulkarni" role="Associate Tutor" desc="Mechanical engineer and CAD Associate Tutor" />
       </div>
     </section>
   );
