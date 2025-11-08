@@ -109,12 +109,12 @@ function Home() {
 function EventGallery() {
   // Add your image filenames here
   const images = [
-    "/events/event1.jpg",
-    "/events/event2.jpg",
-    "/events/event9.jpg",
-    "/events/event6.jpg",
-    "/events/event7.jpg",
-    "/events/event8.jpg",
+    "events/event1.jpg",
+    "events/event2.jpg",
+    "events/event9.jpg",
+    "events/event6.jpg",
+    "events/event7.jpg",
+    "events/event8.jpg",
   ];
 
   return (
