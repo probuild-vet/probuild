@@ -196,7 +196,7 @@ function Overview() {
           {/* Illustration element */}
           <div className="mt-12 flex justify-center">
             <img
-              src="events/profile-building.png"
+              src="public/events/profile-building.png"
               alt="profile-building-illustration"
               className="w-full max-w-3xl object-contain"
             />
